@@ -4,14 +4,17 @@ body {
  background-color: #eaeaea
 }
 h1 {
-  font-size: 200px;
+  font-size: 150px;
   text-align: center;
-  font-family: Helvetica;
+  font-family: Arial;
   color: #555
 }
 p {
-  font-size: 20;
+  font-size: 15px;
   text-align: left;
   font-family: Arial;
   margin-left: 500px;
+}
+p2 {
+  
 }
