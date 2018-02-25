@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* myStyle.css */
+body {
+ background-color: #eaeaea
+}
+h1 {
+  font-size: 200px;
+  text-align: center;
+  font-family: Helvetica;
+  color: #555
+}
+p {
+  font-size: 20;
+  text-align: left;
+  font-family: Arial;
+  margin-left: 500px;
+}
